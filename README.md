@@ -3,6 +3,8 @@
 
 **Significant Web Development:**
 https://www.prabhasakshi.com 
+wranga.in
+igpp.in
 http://www.vridhiloan.com
 https://www.paulinstacred.com
 www.circ.in
@@ -126,3 +128,5 @@ Worldcelebrities.top
 Worldreligion.quest
 Worldsports.top
 Worldtranslate.top
+aktents.com
+
