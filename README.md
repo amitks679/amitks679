@@ -1,9 +1,9 @@
 - 👋 Hi, Welcome to my page! I'm Amit Kumar Singh, Fullstack/Wordpress developer from New Delhi, India.
 
 
-**Significant Web Development:**< br / >
-https://www.prabhasakshi.com < br / >
-wranga.in< br / >
+**Significant Web Development:**
+https://www.prabhasakshi.com 
+wranga.in
 igpp.in
 http://www.vridhiloan.com
 https://www.paulinstacred.com
