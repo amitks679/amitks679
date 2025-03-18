@@ -3,6 +3,7 @@
 
 **Significant Web Development:**
 <ol>
+ <li>shopinshort.com</li>
 <li>fastnex-india.com</li>
 <li>moldex-india.com</li>
 <li>logimatindia.in</li>
